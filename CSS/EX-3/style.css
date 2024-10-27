@@ -1,0 +1,14 @@
+/* TODO */
+.btn {
+  font-size: 80px;
+  margin-left: 40%;
+  margin-top: 20%;
+  border-radius: 25px;
+  background-color: palevioletred;
+  color: white;
+  border: solid 7px purple;
+}
+.btn:hover {
+  background-color: aqua;
+  border: solid 7px aquamarine;
+}
